@@ -1,0 +1,9 @@
+.element {
+  margin: 1vh;
+  color: white;
+}
+
+.score-table {
+	width: 50vh;
+	margin: auto;
+}

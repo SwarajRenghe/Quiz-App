@@ -1,0 +1,28 @@
+.extraLeft {
+	margin-left: 50%;
+	/*width: 120%;*/
+}
+
+.extraWidth {
+	width: 250%;
+}
+
+.extraWidthButNotThatMuch {
+	width: 190%;
+}
+
+#input {
+	width: 120%;
+}
+
+.option {
+	width: 230%;
+	left: 100%;
+	padding-left: 50%;
+	padding-top: 20%;
+}
+
+.heading {
+	width: 100vw;
+	/*margin: auto;*/
+}
